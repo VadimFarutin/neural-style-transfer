@@ -1,5 +1,4 @@
-# neural-style-transfer
-Neural style transfer for images
+# Neural style transfer for images.
 
 Основная идея
 --------------------
