@@ -1,4 +1,9 @@
 # Neural style transfer for images.
+Команда и задачи: [google doc](https://docs.google.com/document/d/1teKxYaVdZJcRRitxQp1_dz0ni_dZii58REJTjPg87E4/edit?usp=sharing)
+
+Реализация бэйзлайна
+--------------------
+За основу взята статья Gatys et al.: [https://arxiv.org/pdf/1508.06576.pdf](https://arxiv.org/pdf/1508.06576.pdf)
 
 Основная идея
 --------------------
